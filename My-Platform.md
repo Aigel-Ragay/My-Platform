@@ -1,7 +1,7 @@
 # MY PLATFORMS
 
 ## Project LiNAW: Public transparency board for DOST SA NEGOR. 
-This project aims to instill the sense of responsibility for the expenses used by the organization that is accessible for scholars who themselves also fund the events held.
+This project seeks to foster a sense of accountability for organizational expenditures, recognizing that scholars who directly contribute to funding these events deserve transparent and accessible financial information.
 
 ## DOST DARE: Discuss, Analyze, Review, Educate. 
 A monthly event held online or f2f where scholars hold discussions on topics relating to academics, a review on subjects, and advice to new scholars.
